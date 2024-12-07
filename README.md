@@ -38,11 +38,11 @@
       <h3 align="center">Rix Discord Bot</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Discord-Bot" target="_blank">
-          <img src="https://i.imgur.com/rixbot.jpg" width="400" alt="Discord Bot">
+          <img src="https://i.imgur.com/white.jpg" width="400" alt="Discord Bot">
         </a>
         <p>
           <a href="https://github.com/neevets/Rix-Discord-Bot" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+            <img src="https://img.shields.io/badge/CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Code on GitHub">
           </a>
           </a>
         </p>
