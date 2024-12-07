@@ -23,7 +23,7 @@
   ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=8)  
 
 - **📚 Frameworks & Libraries**:  
-  ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi&perline=8)  
+  ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet&perline=8)  
 
 - **🛠️ Tools**:  
   ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=8)  
@@ -38,14 +38,12 @@
       <h3 align="center">Rix Discord Bot</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Discord-Bot" target="_blank">
-          <img src="https://i.imgur.com/kaka.jpg" width="400" alt="Discord Bot">
+          <img src="https://i.imgur.com/rixbot.jpg" width="400" alt="Discord Bot">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Discord-Bot" target="_blank">
+          <a href="https://github.com/neevets/Rix-Discord-Bot" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
           </a>
-          <a href="https://youtu.be/your-video" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-000000?style=for-the-badge&color=white" alt="Ver en YouTube">
           </a>
         </p>
         <p>
@@ -65,7 +63,7 @@
 
 ---
 
-## ☕ Support  
+## 🤍 Support  
 
 If you enjoy my work and want to support me, you can buy me a coffee or donate through PayPal. Your support helps me keep creating and sharing.  
 
