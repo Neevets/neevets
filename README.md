@@ -1,41 +1,102 @@
-# Hi there :D I'm a Passionate Backend Developer
+# 👋 Hi, I'm **Neevets** :D
 
-My name is Neevets, and I focus on building efficient, scalable, and robust systems that solve real-world problems. Backend development is my craft, and I aim to write clean, maintainable, and optimized code every day.
-
----
-
-## What I Do
-As a backend developer, I design and implement the core systems that power modern applications. From creating APIs to optimizing databases and engineering microservices, I specialize in crafting reliable and high-performance solutions.
-
-### My Tech Stack:
-- **Programming Languages**:  
-  - Python | Golang | Rust  
-  - Java | C++ | C#
-- **Databases**:  
-  - SQL (PostgreSQL, MySQL, SQLite)  
-  - Redis and other NoSQL technologies.
+### 🧑‍💻 Freelance Mid-Level Backend Developer  
+[![Discord Guild](https://img.shields.io/discord/neevets?style=social&label=Discord&logo=discord)](https://discord.gg/neevets)
+[![Twitter Follow](https://img.shields.io/twitter/follow/neevets?style=social)](https://twitter.com/neevets)
+![GitHub Followers](https://img.shields.io/github/followers/neevets?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/neevets?style=social)
 
 ---
 
-## What Drives Me
-- **Curiosity**: I enjoy exploring new tools, frameworks, and best practices to improve my skills and stay ahead in the tech world.
-- **Problem-Solving**: Debugging and optimizing systems is like solving puzzles for me—challenging but rewarding.
-- **Teamwork**: I value collaboration and believe great solutions come from sharing knowledge and working together.
+## 📖 About Me  
+
+**I'm a passionate Spanish computing student with a strong interest in programming and technology. In my free time, I enjoy coding, exploring new concepts, and sharing my projects. I'm always eager to learn and grow, staying updated with the latest tech trends.**
 
 ---
 
-## What You'll Find Here
-In this GitHub, you can explore:
-- Projects showcasing APIs, backend architectures, and system designs.
-- Code examples demonstrating data structures, algorithms, and performance optimizations.
-- Open-source tools and contributions aimed at helping the developer community.
+### 🛠️ Skills  
+
+- **🌐 Languages**:  
+  ![Languages](https://skillicons.dev/icons?i=py,go,rust,java,cpp,cs&perline=8)  
+
+- **💾 Databases**:  
+  ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=8)  
+
+- **📚 Frameworks & Libraries**:  
+  ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi&perline=8)  
+
+- **🛠️ Tools**:  
+  ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=8)  
 
 ---
 
-## My Mission
-*"To build systems that not only solve today's challenges but also scale for tomorrow's needs."*
+## 🚀 Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Rix Discord Bot</h3>
+      <div align="center">
+        <a href="https://github.com/ArisGuimera/Discord-Bot" target="_blank">
+          <img src="https://i.imgur.com/kaka.jpg" width="400" alt="Discord Bot">
+        </a>
+        <p>
+          <a href="https://github.com/ArisGuimera/Discord-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+          </a>
+          <a href="https://youtu.be/your-video" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-000000?style=for-the-badge&color=white" alt="Ver en YouTube">
+          </a>
+        </p>
+        <p>
+          ...
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>  
 
 ---
 
-## Let's Connect
-I’m always open to collaborating on exciting projects or discussing ideas. Feel free to reach out if you have something in mind or just want to chat about tech! :v
+## 📬 Contact  
+
+- **📧 Email**: [contact@neevets.dev](mailto:contact@neevets.dev)  
+- **🔗 LinkedIn**: [@Neevets](https://linkedin.com/neevets)  
+
+---
+
+## ☕ Support  
+
+If you enjoy my work and want to support me, you can buy me a coffee or donate through PayPal. Your support helps me keep creating and sharing.  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/neevets" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
+  </a>
+  <a href="https://paypal.me/neevets" target="_blank">
+    <img src="https://img.shields.io/badge/Donate_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal">
+  </a>
+</p>  
+
+---
+
+## 📊 GitHub Statistics  
+
+<table>
+  <tr>
+    <td align="center" style="padding: 0; width: 50%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/?username=neevets&show_icons=true&title_color=000000&text_color=000000&theme=react&hide_border=true&count_private=true&bg_color=FFFFFF" 
+        height="180" 
+      />
+    </td>
+    <td align="center" style="padding: 0; width: 50%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevets&title_color=000000&text_color=000000&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=FFFFFF" 
+        height="180" 
+      />
+    </td>
+  </tr>
+</table>  
+
+---
