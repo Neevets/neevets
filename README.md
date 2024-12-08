@@ -1,20 +1,19 @@
-# 👋 Hi, I'm **Neevets** :D
+<h1 style="text-align: center; font-weight: bold;">👋 Hi, I'm Neevets</h1>
 
 ### 🧑‍💻 Freelance Mid-Level Backend Developer  
-[![Discord Guild](https://img.shields.io/discord/neevets?style=social&label=Discord&logo=discord)](https://discord.gg/neevets)
 [![Twitter Follow](https://img.shields.io/twitter/follow/neevets?style=social)](https://twitter.com/neevets)
 ![GitHub Followers](https://img.shields.io/github/followers/neevets?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/neevets?style=social)
 
 ---
 
-## 📖 About Me  
-
+## 📖 About Me
 **I'm a passionate Spanish computing student with a strong interest in programming and technology. In my free time, I enjoy coding, exploring new concepts, and sharing my projects. I'm always eager to learn and grow, staying updated with the latest tech trends.**
 
 ---
 
-### 🛠️ Skills  
+
+## 🔎 Skills
 
 - **🌐 Languages**:  
   ![Languages](https://skillicons.dev/icons?i=py,go,rust,java,cpp,cs&perline=8)  
@@ -22,11 +21,8 @@
 - **💾 Databases**:  
   ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=8)  
 
-- **📚 Frameworks & Libraries**:  
-  ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet&perline=8)  
-
 - **🛠️ Tools**:  
-  ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=8)  
+  ![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,cloudflare,&perline=8)  
 
 ---
 
