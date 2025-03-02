@@ -16,7 +16,7 @@
 ## 🔎 Skills
 
 - **🌐 Languages**:  
-  ![Languages](https://skillicons.dev/icons?i=py,go,rust,java,cpp,cs&perline=8)  
+  ![Languages](https://skillicons.dev/icons?i=py,go,rust,cpp&perline=8)  
 
 - **💾 Databases**:  
   ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=8)  
