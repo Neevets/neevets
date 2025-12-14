@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center" style="text-align:center; font-size:1.2em;">
-  <a href="https://neevets.website" target="_blank">neevets.website</a>
-</p>
-
 <hr />
 
 ## :book: About Me  
@@ -70,13 +66,5 @@
     </td>
   </tr>
 </table>
-
-<hr />
-
-## :trophy: GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NEEVETS&theme=flat&no-bg=false&margin-w=10&margin-h=10&title_color=000000&text_color=000000&bg_color=FFFFFF" alt="GitHub Trophies" />
-</p>
 
 <hr />
