@@ -23,7 +23,7 @@
 ## :wrench: Skills
 
 ### :globe_with_meridians: Languages  
-![Languages](https://skillicons.dev/icons?i=c,go,py,ts&perline=8)
+![Languages](https://skillicons.dev/icons?i=c,go,py,js,ts&perline=8)
 
 ---
 
