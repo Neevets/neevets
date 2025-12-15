@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevets&layout=compact&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="200" alt="GitHub Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neevets&title_color=000000&text_color=000000&hide_border=true&count_private=true&bg_color=FFFFFF" height="200" alt="GitHub Top Languages" />
     </td>
   </tr>
 </table>
