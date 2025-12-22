@@ -4,7 +4,7 @@
 
 <p align="center" style="text-align:center;">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
+    <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logoColor=white" alt="Hire me on Fiverr" />
   </a>
 </p>
 
