@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; font-size: 2.5em;">Hi, I'm Neevets</h1>
+<h1 align="center" style="font-weight: bold; font-size: 2.5em;">👋 Hi, I'm Neevets</h1>
 
 <h3 align="center" style="font-size: 2.0em;">Software Developer</h3>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1366592453498507326" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://lanyard.cnrad.dev/api/1366592453498507326?borderRadius=20px&idleMessage=currently%20doing%20nothing&showDisplayName=true&hideDiscrim=true&theme=light" alt="Discord Presence" width="500" />
+    <img src="https://lanyard.cnrad.dev/api/1366592453498507326?borderRadius=20px&idleMessage=currently%20doing%20nothing...&showDisplayName=true&hideDiscrim=true&theme=light" alt="Discord Presence" width="500" />
   </a>
 </p>
 
