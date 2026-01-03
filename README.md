@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold; font-size: 2.5em;">:wave: Hi, I'm Neevets</h1>
+<h1 align="center" style="font-weight: bold; font-size: 2.5em;">Hi, I'm Neevets</h1>
 
 <h3 align="center" style="font-size: 2.0em;">Software Developer</h3>
 
@@ -13,7 +13,7 @@
 ## About Me  
 
 <p align="center">
-  Hey, I’m a Honduran boy passionate about programming and graphic design.<br />
+  I’m a Honduran boy passionate about programming and graphic design.<br />
   In my free time, I love coding and digital drawing. Always eager to learn, level up, and improve both personally and professionally.<br />
   If I’m not online, I’m probably sharpening my skills to become better.
 </p>
