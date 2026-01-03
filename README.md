@@ -41,13 +41,3 @@
 ![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,cmake,vercel,cloudflare,figma,blender&perline=8)
 
 <hr />
-
-## Discord Presence  
-
-<p align="center">
-  <a href="https://discord.com/users/1366592453498507326" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://lanyard.cnrad.dev/api/1366592453498507326?borderRadius=20px&idleMessage=currently%20doing%20nothing...&showDisplayName=true&hideDiscrim=true&theme=light" alt="Discord Presence" width="500" />
-  </a>
-</p>
-
-<hr />
