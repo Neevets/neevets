@@ -42,7 +42,5 @@
 
 <hr />
 
-## Tech
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neevets&theme=github)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neevets&theme=github)
