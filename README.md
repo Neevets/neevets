@@ -4,7 +4,7 @@
 ![Languages](https://skillicons.dev/icons?i=c,go,py,js,ts)
 
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,tensorflow)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,pytorch,tensorflow)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)
