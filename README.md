@@ -22,23 +22,37 @@
 
 ## Skills
 
-### Languages  
-![Languages](https://skillicons.dev/icons?i=c,go,py,js,ts&perline=8)
+### Languages
+![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript)
 
 ---
 
-### Frameworks & Libraries  
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,tensorflow&perline=8)
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
 
 ---
 
-### Databases  
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis&perline=8)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis)
 
 ---
 
-### Tools & Utils  
-![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,cmake,vercel,cloudflare,figma,blender&perline=8)
+### Tools & Utils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender)
 
 <hr />
 
