@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold; font-size: 2.5em;">👋 Hi, I'm Neevets</h1>
 
-<h3 align="center" style="font-size: 2.0em;">Software Developer & Day Trader</h3>
+<h3 align="center" style="font-size: 2.0em;">Software Developer</h3>
 
 <p align="center" style="text-align:center;">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
@@ -46,4 +46,3 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neevets&theme=github)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neevets&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neevets&theme=github)
