@@ -46,3 +46,4 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neevets&theme=github)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neevets&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neevets&theme=github)
