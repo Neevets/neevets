@@ -4,13 +4,13 @@
 ![Languages](https://skillicons.dev/icons?i=godot,go,py,js,ts)
 
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,react,vite,tailwind)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,nestjs,react,vite,tailwind)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)
 
 ### Tools & Utils
-![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,cloudflare,postman,sentry)
+![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,netlify,cloudflare,postman,sentry)
 
 ## Tech
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neevets&theme=graywhite)
