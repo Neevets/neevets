@@ -8,17 +8,14 @@
   </a>
 </p>
 
-<hr />
-
 ## About Me  
 
 <p align="center">
   I’m a Honduran boy passionate about programming and graphic design.<br />
-  In my free time, I love coding and digital drawing. Always eager to learn, level up, and improve both personally and professionally.<br />
+  In my free time, I love coding and digital drawing.<br />
+  Always eager to learn, level up, and improve both personally and professionally.<br />
   If I’m not online, I’m probably sharpening my skills to become better.
 </p>
-
-<hr />
 
 ## Skills
 
