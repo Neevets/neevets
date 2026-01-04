@@ -10,7 +10,7 @@
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)
 
 ### Tools & Utils
-![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,netlify,cloudflare,postman,sentry)
+![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,netlify,cloudflare,sentry)
 
 ## Tech
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neevets&theme=graywhite)
