@@ -43,4 +43,6 @@
 <hr />
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neevets&theme=graywhite)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neevets&theme=graywhite&utcOffset=8)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neevets&theme=graywhite)
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neevets&theme=graywhite)
