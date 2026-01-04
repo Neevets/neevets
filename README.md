@@ -4,7 +4,7 @@
 
 <p align="center" style="text-align:center;">
   <a href="https://www.fiverr.com/neevetsio" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge&logoColor=white" alt="Hire me on Fiverr" />
+    <img src="https://img.shields.io/badge/Hire%20Me%20on-Fiverr-1DBF73?style=for-the-badge" alt="Hire me on Fiverr" />
   </a>
 </p>
 
@@ -25,17 +25,11 @@
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=c,go,py,js,ts)
 
----
-
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,tensorflow)
 
----
-
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)
-
----
 
 ### Tools & Utils
 ![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,cmake,vercel,cloudflare,figma,blender)
@@ -43,6 +37,6 @@
 <hr />
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neevets&theme=graywhite)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neevets&theme=graywhite&utcOffset=8)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neevets&theme=graywhite&utcOffset=-12)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neevets&theme=graywhite)
 ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neevets&theme=graywhite)
