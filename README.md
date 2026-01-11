@@ -4,7 +4,7 @@
 ![Languages](https://skillicons.dev/icons?i=godot,go,py,ts)
 
 ### Frameworks & Libraries
-![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,nestjs,react,tailwind)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=django,fastapi,nestjs,react)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis)
