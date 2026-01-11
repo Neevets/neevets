@@ -13,7 +13,8 @@
 ![Tools & Utils](https://skillicons.dev/icons?i=git,vscode,vscodium,visualstudio,docker,vercel,netlify,cloudflare,postman,sentry&perline=5)
 
 ## Tech
-![Stats](https://github-profile-summary-cards-plum.vercel.app/api/cards/stats?username=neevets&theme=graywhite)
-![Commits](https://github-profile-summary-cards-plum.vercel.app/api/cards/productive-time?username=neevets&theme=graywhite&utcOffset=+01)
-![Repos](https://github-profile-summary-cards-plum.vercel.app/api/cards/repos-per-language?username=neevets&theme=graywhite)
-![Language](https://github-profile-summary-cards-plum.vercel.app/api/cards/most-commit-language?username=neevets&theme=graywhite)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neevets&theme=graywhite)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neevets&theme=graywhite&utcOffset=-12)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neevets&theme=graywhite&utcOffset=+01)
+![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neevets&theme=graywhite)
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neevets&theme=graywhite)
